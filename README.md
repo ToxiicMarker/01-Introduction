@@ -64,3 +64,5 @@ The grading criteria will be as follows:
 * [2] Adds interesting features (beyond the scope of the assignment)
 
 20 points total
+
+This program is a way for me to introduce myself. It covers the games I play, what I am excited for, my concerns in the Game Technology class this year, my stack overflow ID, and my GitHub URL. I added some nice text pictures, some inputs, a typing simulator throughout most of the program, and pauses to attempt to achieve a more soulful and fun tone to the introduction.
